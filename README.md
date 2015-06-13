@@ -1,9 +1,10 @@
 # pythons
-python codes for projects
-on(light)
-off(light)
-putSat(light, sat)
-putBri(light, bri)
-putHue(light, hue)
-setLightState(light)
-getState()
+
+
+on(light) <br>
+off(light)<br>
+putSat(light, sat)<br>
+putBri(light, bri)<br>
+putHue(light, hue)<br>
+setLightState(light)<br>
+getState()<br>
