@@ -1,8 +1,7 @@
-### Readme
-
-Github의 readme작성은 markdown이라는 문법을 따른다. https://help.github.com/articles/github-flavored-markdown/
-
 # Hue.py
+
+---
+
 Hue.py는 Hue의 전구들을 제어하고, 각전구의 상태를 읽을수 있는 함수를 제공한다.
 
 * Variables
@@ -22,10 +21,7 @@ Hue.py는 Hue의 전구들을 제어하고, 각전구의 상태를 읽을수 있
   * getState()
   * 
   
-asdfasdf
-
-
-
+---
 
 ## Issue
 현재는 각 기능이 함수로 이루어져있지만 객체지향으로 짜는것이 더 좋을거같은 생각에 고민중
